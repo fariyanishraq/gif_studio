@@ -1,1 +1,1 @@
-# gif_studio
+# GIF Studio
